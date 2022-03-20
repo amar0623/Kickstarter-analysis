@@ -36,22 +36,22 @@ The $ causes excel to keep a static row or column, which was needed for the form
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+#### - What are two conclusions you can draw about the Outcomes based on Launch Date?
 The first conclusion is that May is the most successful month to start a campaign. 
 Even taking into consideration that May also has the highest number of failed campaigns, there were way more successful campaigns in May than any other time of the year.
 
 The second conclusion is that December is the worst time of the year to launch a campaign.
 December has the lowest number of successful campaigns, and a comparitively similar amount of failed campaigns as well.
 
-- What can you conclude about the Outcomes based on Goals?
+#### - What can you conclude about the Outcomes based on Goals?
 Campaigns are much more likely to be successful with a goal of less than $5,000. The failure of the campaigns is much more likely with a goal of over $20,000.
 
-- What are some limitations of this dataset?
+#### - What are some limitations of this dataset?
 Neither analysis performed was filtered by country, which could be a limitation based on cultural trends. 
 For Louise to more closely mirror succesful campaigns, filtering to the country the play will be in would help find trends of that country.
 An example could include how the least successful month was December, but this could be because a huge holiday in primarily Christian countries would be Christmas, and people celebrating that holiday may be less likely to attend a theater during this time.
 For the outcomes based on goal, there were significantly less campaigns that had goals of more than $20,000. Small sample sizes do not reflect the total data well.
 
-- What are some other possible tables and/or graphs that we could create?
+#### - What are some other possible tables and/or graphs that we could create?
 One useful table or graph we could create might track how many campaign backers there were for a given month out of the year, and how much on average they pledged.
 This could help Louise anticipate which month out of the year brings in the most money.
