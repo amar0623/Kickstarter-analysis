@@ -33,7 +33,7 @@ The most difficult challenge during this analysis was using the "=Countifs" func
 While inputting the "=Countifs" function, excel did not automatically place a "$" before every column value in the formula, so the formula kept giving an error.
 ![image](https://user-images.githubusercontent.com/96644316/159152724-2ce3e164-9628-42c2-ae65-fafb2e0c8224.png)
 I watched the tutorial video on canvas, and the example had $ before each column for the function criteria range.
-![image](https://user-images.githubusercontent.com/96644316/159152692-157cdae3-6fe6-4309-a755-e7ae11af85dd.png)
+![image](https://user-images.githubusercontent.com/96644316/159152846-fdf50478-38ab-4c4e-a737-437fdb0134f4.png)
 The remedy was found due to comparing the canvas instructional video and what excel was automatically filling in my fomula bar for the same function. 
 I googled what a $ does, and the $ causes excel to keep a static row or column, which was needed for the formula to run properly.
 
